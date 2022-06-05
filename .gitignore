@@ -1,6 +1,7 @@
 # ignore the build folder
 x64
 bin
+obj
 # Ignore the VS studio local files
 .vs
 *.user
